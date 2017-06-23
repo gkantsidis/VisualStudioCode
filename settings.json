@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": 0,
+    "extensions.autoUpdate": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontLigatures": true,
+    "ycmd.path": "E:/Repos/Me/Universe/PL/Support/YouCompleteMe/third_party/ycmd",
+    "editor.renderIndentGuides": false
+}
