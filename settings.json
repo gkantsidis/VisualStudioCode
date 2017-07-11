@@ -5,6 +5,6 @@
     "files.trimTrailingWhitespace": true,
     "editor.fontLigatures": true,
     "terminal.integrated.fontLigatures": true,
-    "ycmd.path": "E:/Repos/Me/Universe/PL/Support/YouCompleteMe/third_party/ycmd",
+    "ycmd.path": "users/christos/stable/Programs/PL/Support/YouCompleteMe/third_party/ycmd",
     "editor.renderIndentGuides": false
 }
