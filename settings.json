@@ -6,5 +6,10 @@
     "editor.fontLigatures": true,
     "terminal.integrated.fontLigatures": true,
     "ycmd.path": "c:/tools/Stable/users/christos/stable/Programs/PL/Support/YouCompleteMe/third_party/ycmd",
-    "editor.renderIndentGuides": false
+    "editor.renderIndentGuides": false,
+    "cSpell.userWords": [
+        "Bletchley",
+        "cryptanalysis",
+        "cryptanalysts"
+    ]
 }
