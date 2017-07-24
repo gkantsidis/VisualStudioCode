@@ -10,17 +10,18 @@
     "cSpell.userWords": [
         "Bletchley",
         "Christos",
-        "cryptanalysis",
-        "cryptanalysts",
         "Erlang",
         "Gkantsidis",
         "Hypergeometric",
         "Interop",
         "Kolmogorov",
         "Kuiper",
+        "LLVM",
         "Multinomial",
         "Weibull",
         "Wishart",
-        "Zipf"
+        "Zipf",
+        "cryptanalysis",
+        "cryptanalysts"
     ]
 }
