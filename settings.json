@@ -6,6 +6,7 @@
     "editor.fontLigatures": true,
     "terminal.integrated.fontLigatures": true,
     "ycmd.path": "c:/tools/Stable/users/christos/stable/Programs/PL/Support/YouCompleteMe/third_party/ycmd",
+    "tfvc.location": "C:/Tools/Stable/Programs/TeamExplorer/tf.exe",
     "editor.renderIndentGuides": false,
     "cSpell.userWords": [
         "Bletchley",
