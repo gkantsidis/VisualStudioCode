@@ -35,5 +35,6 @@
         "cryptanalysts",
         "executables",
         "performant"
-    ]
+    ],
+    "workbench.iconTheme": "vscode-icons"
 }
