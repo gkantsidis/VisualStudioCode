@@ -27,6 +27,7 @@
         "NSDI",
         "Netronome",
         "Periklis",
+        "Repos",
         "Weibull",
         "Wishart",
         "Zipf",
@@ -34,6 +35,8 @@
         "cryptanalysis",
         "cryptanalysts",
         "executables",
+        "koufalia",
+        "msrc",
         "performant"
     ],
     "workbench.iconTheme": "vscode-icons"
