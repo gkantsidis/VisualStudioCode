@@ -49,5 +49,8 @@
         "suppressNoRepositoryWarning": false,
         "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
+    },
+    "files.associations": {
+        "*.yang-partial": "yang"
     }
 }
