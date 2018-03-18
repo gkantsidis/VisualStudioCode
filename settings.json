@@ -49,5 +49,8 @@
         "suppressNoRepositoryWarning": false,
         "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
-    }
+    },
+    "git.autofetch": true,
+    "gitlens.keymap": "alternate",
+    "team.showWelcomeMessage": false
 }
