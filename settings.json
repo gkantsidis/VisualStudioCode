@@ -52,5 +52,8 @@
     },
     "git.autofetch": true,
     "gitlens.keymap": "alternate",
-    "team.showWelcomeMessage": false
+    "team.showWelcomeMessage": false,
+    "files.associations": {
+        "*.yang-partial": "yang"
+    }
 }
