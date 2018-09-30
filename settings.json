@@ -57,5 +57,6 @@
     "team.showWelcomeMessage": false,
     "files.associations": {
         "*.yang-partial": "yang"
-    }
+    },
+    "gitlens.historyExplorer.enabled": true
 }
