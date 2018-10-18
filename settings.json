@@ -36,5 +36,9 @@
         "executables",
         "performant"
     ],
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "gitlens.keymap": "alternate",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    }
 }
