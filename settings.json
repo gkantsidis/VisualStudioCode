@@ -66,5 +66,6 @@
     "[json]": {
         "editor.defaultFormatter": "HookyQR.beautify"
     },
-    "python.jediEnabled": false
+    "python.jediEnabled": false,
+    "editor.largeFileOptimizations": false
 }
