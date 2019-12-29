@@ -39,7 +39,6 @@
         "msrc",
         "performant"
     ],
-    "workbench.iconTheme": "vscode-icons",
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
         "suppressCommitNotFoundWarning": false,
@@ -58,5 +57,10 @@
     "files.associations": {
         "*.yang-partial": "yang"
     },
-    "gitlens.historyExplorer.enabled": true
+    "gitlens.historyExplorer.enabled": true,
+    "powershell.powerShellExePath": "C:\\Program Files\\PowerShell\\6.0.0\\pwsh.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "C_Cpp.updateChannel": "Insiders"
 }
