@@ -53,14 +53,20 @@
     },
     "git.autofetch": true,
     "gitlens.keymap": "chorded",
+    "gitlens.historyExplorer.enabled": true,
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
     "team.showWelcomeMessage": false,
     "files.associations": {
         "*.yang-partial": "yang"
     },
-    "gitlens.historyExplorer.enabled": true,
-    "powershell.powerShellExePath": "C:\\Program Files\\PowerShell\\6.0.0\\pwsh.exe",
     "editor.suggestSelection": "first",
+    "editor.largeFileOptimizations": false,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.jediEnabled": false,
-    "C_Cpp.updateChannel": "Insiders"
+    "C_Cpp.updateChannel": "Insiders",
+    "csharp.format.enable": false,
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
 }
